@@ -1,7 +1,7 @@
 # CSE-5524-Computer-Vision
 Programming assignments from class CSE-5524, Fall 2022, OSU
 
-This repository contains 12 folders, consisting 11 weekly programming assignments and1 final project. Each programming assignment folder (Week 0 - Week 10) contains the assignment PDF, and a separated folder which consists of input data, code (.ipynb file), output images (if any), and a report.
+This repository contains 12 folders, consisting of 11 weekly programming assignments and1 final project. Each programming assignment folder (Week 0 - Week 10) contains the assignment PDF, and a separated folder which consists of input data, code (.ipynb file), output images (if any), and a report.
 
 Topic of discussion in each folder is given as follows:
 
